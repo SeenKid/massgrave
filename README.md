@@ -1,0 +1,1 @@
+# Scrips for Windows activation
